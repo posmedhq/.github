@@ -1,10 +1,10 @@
 <p align="center">
-  <a href="https://posmed.id"><img src="banner.png" alt="Posmed, sekali unggah, semua tayang" width="100%"></a>
+  <a href="https://posmed.id"><img src="banner.png" alt="Posmed, upload once, publish everywhere" width="100%"></a>
 </p>
 
 <p align="center">
-  <b>Auto posting video pendek ke YouTube Shorts, TikTok, Instagram Reels, dan Facebook dari satu tempat.</b><br>
-  Pakai Posmed Cloud, atau pasang gratis di servermu sendiri.
+  <b>Schedule short videos to YouTube Shorts, TikTok, Instagram Reels, and Facebook from one place.</b><br>
+  Use Posmed Cloud, or host it yourself for free.
 </p>
 
 <p align="center">
@@ -13,25 +13,25 @@
 
 ---
 
-### Apa itu Posmed
+### What is Posmed
 
-Posmed adalah penjadwal video pendek untuk kreator dan tim yang mengelola banyak akun. Unggah satu video, pilih akun tujuan, atur jam tayang, lalu Posmed yang mengirimkannya ke tiap platform.
+Posmed is a short video scheduler for creators and teams who run many accounts. Upload a video once, pick the accounts, set the time, and Posmed delivers it to every platform.
 
-- **Satu unggahan, banyak platform.** YouTube Shorts, TikTok, Instagram Reels, dan Facebook Reels.
-- **Jadwal yang kelihatan.** Kalender per minggu, geser untuk pindah jam, peringatan kalau jadwal bentrok.
-- **Aman kalau gagal.** Coba ulang otomatis, notifikasi lewat email dan Telegram, riwayat setiap pengiriman.
-- **Bisa diotomasi.** REST API, CLI, MCP untuk asisten AI, webhook, dan feed kalender.
+- **One upload, every platform.** YouTube Shorts, TikTok, Instagram Reels, and Facebook Reels.
+- **A schedule you can see.** Weekly calendar, drag to reschedule, and a warning when posts clash.
+- **Safe when things fail.** Automatic retries, email and Telegram notifications, and a history of every delivery.
+- **Built to automate.** REST API, CLI, MCP for AI assistants, webhooks, and calendar feeds.
 
-### Dua cara pakai
+### Two ways to use it
 
 | | Posmed Cloud | Community Edition |
 | --- | --- | --- |
-| Untuk | Yang ingin langsung pakai | Yang ingin memasang sendiri |
-| Tempat | [app.posmed.id](https://app.posmed.id) | Docker atau Cloudflare Workers milikmu |
-| Biaya | Mulai gratis | Gratis, open source (AGPL-3.0) |
+| For | Getting started right away | Running it on your own infrastructure |
+| Where | [app.posmed.id](https://app.posmed.id) | Your own Docker host or Cloudflare Workers |
+| Price | Free to start | Free and open source (AGPL-3.0) |
 
-Community Edition sedang disiapkan untuk rilis publik.
+The Community Edition is being prepared for its public release.
 
 ---
 
-<sub>Posmed dibuat di Indonesia. Posmed is a short video scheduler for YouTube Shorts, TikTok, Instagram Reels, and Facebook, available as a hosted service or a self-hosted, open source edition.</sub>
+<sub>Made in Indonesia. Posmed speaks Bahasa Indonesia and English.</sub>
